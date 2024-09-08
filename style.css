@@ -5,11 +5,11 @@
 
 body { 
 
-    font-family: "EB Garamond", serif; 
+    font-family: "italic";
 
-    color: mediumvioletred; 
+    color: rgb(13, 13, 13); 
 
-    background-color: pink; 
+    background-color:rgb(96, 80, 142); 
 
     margin: 50px auto; 
 
@@ -23,9 +23,9 @@ body {
 
 p { 
 
-    background-color: #ffffff; 
+    background-color: #efeded; 
 
-    color: black; 
+    color: rgb(243, 238, 238); 
 
     width: 550px; 
 
@@ -51,7 +51,7 @@ h1 {
 
     font-family: "Permanent Marker"; 
 
-    color: #ff69b4; 
+    color: #030a01; 
 
     font-size: 48px; 
 
@@ -63,9 +63,9 @@ h1 {
 
 h2 { 
 
-    color: #560454; 
+    color: #eae9ea00; 
 
-    font-family: "Reenie Beanie"; 
+    font-family: "italic"; 
 
     font-size: 32px; 
 
@@ -77,9 +77,9 @@ h2 {
 
 h3 { 
 
-    font-family: "Reenie Beanie"; 
+    font-family: "italic"; 
 
-    color: #ff69b4; 
+    color: #ece5e9; 
 
     font-size: 28px; 
 
@@ -89,7 +89,7 @@ h3 {
 
 h4 { 
 
-    font-family: "Reenie Beanie"; 
+    font-family: "italic"; 
 
     color: #ff69b4; 
 
@@ -98,3 +98,15 @@ h4 {
     font-size: 24px; 
 
 } 
+
+.gallery img {
+    width: 300px;
+
+
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    background-color: #121212;
+    margin: 0;
