@@ -9,7 +9,7 @@ body {
 
     color: rgb(13, 13, 13); 
 
-    background-color:rgb(96, 80, 142); 
+    background-color:rgb(142, 121, 182); 
 
     margin: 50px auto; 
 
@@ -23,9 +23,9 @@ body {
 
 p { 
 
-    background-color: #efeded; 
+    background-color: rgb(237, 236, 236); 
 
-    color: rgb(243, 238, 238); 
+    color: black; 
 
     width: 550px; 
 

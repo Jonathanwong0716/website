@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "horror.0"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website"
+	}
+}
