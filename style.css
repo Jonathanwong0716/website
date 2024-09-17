@@ -43,7 +43,22 @@ p {
 
     font-style: italic; 
 
-} 
+}     
+.button {
+   padding: 10px 20px;
+     font-size: 16px;
+     background-color: #0c0c0c;
+     color: white;
+     border: none;
+     border-radius: 5px;
+     text-decoration: none;
+     text-align: center;
+     display: inline-block;
+ }
+
+ .button:hover {
+     background-color: #a9b2bc;
+ }
 
  
 
@@ -110,3 +125,4 @@ nav ul {
     text-align: center;
     background-color: #121212;
     margin: 0;
+}
